@@ -1,0 +1,23 @@
+.fondoHeader{
+    background-color: hotpink;
+}
+.justifyContent-end{
+    justify-content: flex-end;
+}
+
+article{
+    width: 18rem;
+}
+h2{
+    text-align: center;
+}
+.botonHotPink{
+    background-color: hotpink;
+    border: solid 1px hotpink;
+}
+.botonHotPink:hover{
+    background-color: rgb(139, 0, 69);
+}
+div{
+    border: 1px solid black;
+}
